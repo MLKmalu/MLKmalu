@@ -5,8 +5,9 @@
 
 Here are some ideas to get you started:
 
+- 🚺🚹 I´m a Girl
+- 🎌 Speak´s Portuguese and a bit of english and russian
 - 🔭 I’m currently studying on CTISM
 - 🌱 I’m currently learning in College
-- 👯 I’m looking to collaborate on Computing
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: From Brazil
