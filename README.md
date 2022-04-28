@@ -1,13 +1,8 @@
- Hi there 👋
+#Eae!:wave:
 
-<!--
-**MLKmalu/MLKmalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#####Eu sou um estudante do CTISM da turma de informática, estou no 2º grau. Brasileira gaúcha com orgulho!:muscle:
 
-Here are some ideas to get you started:
+##Hobbies:basketball:
 
-- 🚺🚹 I´m a Girl
-- 🎌 Speak´s Portuguese and a bit of english and russian
-- 🔭 I’m currently studying on CTISM
-- 🌱 I’m currently learning in College
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: From Brazil
+*faço muay thai:boom:
+*leio alguns mangás
