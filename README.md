@@ -19,6 +19,8 @@
 * Assisto alguns filmes animes e séries
 * Ouço musica de qualquer gênero
 
+![Berserk](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUB2KCumUncwZn5Q1UJpe6Z3kpVpt3aixmAw&usqp=CAU)
+
 ## Minhas expectativas?:sparkles:
 
 * Aprender varias linguagens de programação
@@ -28,7 +30,7 @@
 ## Talk with me:sparkles:
 
 ### Instagram: @Malu_d3s3nhos
-### Discord: Mr.CB Joestar_1257
+### Discord: Mr.CB Joestar_1257#4190
 ### Zap Zap: +5547991689778
 ### Email: marialuisa.ctism@gmail.com
 
