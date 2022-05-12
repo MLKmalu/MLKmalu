@@ -14,18 +14,22 @@
 
 ## Hobbies:basketball::sparkles:
 
-* faço muay thai:boom:
-* leio alguns mangás
+* Faço muay thai:boom:
+* Leio alguns mangás (Atualmente to lendo Berserk)
+* Assisto alguns filmes animes e séries
+* Ouço musica de qualquer gênero
 
 ## Minhas expectativas?:sparkles:
 
 * Aprender varias linguagens de programação
 * Aprender informatica:+1:
+* Aprender novos idiomas
 
 ## Talk with me:sparkles:
 
 ### Instagram: @Malu_d3s3nhos
 ### Discord: Mr.CB Joestar_1257
 ### Zap Zap: +5547991689778
+### Email: marialuisa.ctism@gmail.com
 
 ![](https://img.estadao.com.br/fotos/crop/1200x1200/resources/jpg/4/2/1616530546824.jpg)
