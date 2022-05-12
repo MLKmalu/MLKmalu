@@ -14,8 +14,6 @@
 #### Gosto de shitpost
 #### Pisciana:fish:
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw5k_Yq78zQ_WwWbT_uM2voBIXEvPupYr9Tg&usqp=CAU)
-
 ## Hobbies:basketball::sparkles:
 
 * Faço muay thai:boom:
