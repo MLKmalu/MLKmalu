@@ -14,7 +14,7 @@
 
 ## Hobbies:basketball::sparkles:
 
-* faço nuay thai:boom:
+* faço muay thai:boom:
 * leio alguns mangás
 
 ## Minhas expectativas?:sparkles:
