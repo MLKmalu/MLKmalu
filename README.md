@@ -1,6 +1,6 @@
 # Eae!:wave:
 
-![](https://i.pinimg.com/originals/88/78/2d/88782d6822dfe2d7d8adf0a73b2d7664.gif)
+![](https://i.pinimg.com/originals/c9/bb/4c/c9bb4cf31417f2a8d59c5931d34ca67f.gif)
 
 #### Eu sou um estudante do ´CTISM-UFSM´ da turma de informática, estou no 2º grau. Brasileira gaúcha com orgulho!:muscle:
 
@@ -13,6 +13,8 @@
 #### Gosto de Cereja:cherries:
 #### Gosto de shitpost
 #### Pisciana:fish:
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw5k_Yq78zQ_WwWbT_uM2voBIXEvPupYr9Tg&usqp=CAU)
 
 ## Hobbies:basketball::sparkles:
 
