@@ -1,5 +1,7 @@
 # Eae!:wave:
 
+![](https://i.pinimg.com/originals/88/78/2d/88782d6822dfe2d7d8adf0a73b2d7664.gif)
+
 #### Eu sou um estudante do ´CTISM-UFSM´ da turma de informática, estou no 2º grau. Brasileira gaúcha com orgulho!:muscle:
 
 ## Sobre mim:sparkles:
