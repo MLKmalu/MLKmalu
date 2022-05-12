@@ -2,7 +2,7 @@
 
 ![](https://i.pinimg.com/originals/c9/bb/4c/c9bb4cf31417f2a8d59c5931d34ca67f.gif)
 
-#### Eu sou um estudante do ´CTISM-UFSM´ da turma de informática, estou no 2º grau. Brasileira gaúcha com orgulho!:muscle:
+#### Eu sou um estudante do CTISM-UFSM da turma de informática, estou no 2º grau. Brasileira gaúcha com orgulho!:muscle:
 
 ## Sobre mim:sparkles:
 
