@@ -6,20 +6,22 @@
 
 ## Sobre mim:sparkles:
 
+#### Pronomes: Ela/Dela
 #### Aluna de 15 anos
-#### Gosto de conversar com pessoas diferentes
-#### MBTI: infp
+#### Gosto de conversar com pessoas diferentes, asssitir casos criminais
+#### Morava em Santa Catarina mas me mudei pra Santa Maria em 2020
+#### Tenho 5 Gatos em casa, dois siralatas, dois gatos pretos e um frajola
+#### MBTI: infp, enfp
 #### Gremista de nascença
-#### Gosto de Cereja:cherries:
-#### Gosto de shitpost
-#### Pisciana:fish:
+#### Gosto de Comida
+#### Gosto de Shitpost
+#### Pisciana 05/03/2007:fish:
 
-## Hobbies:basketball::sparkles:
+## Hobbies:dart:
 
-* Faço muay thai:boom:
 * Leio alguns mangás (Atualmente to lendo Berserk)
 * Assisto alguns filmes animes e séries
-* Ouço musica de qualquer gênero
+* Ouço musica de qualquer gênero, em especifico Rock ou Internacional
 
 ![Berserk](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUB2KCumUncwZn5Q1UJpe6Z3kpVpt3aixmAw&usqp=CAU)
 
@@ -28,6 +30,7 @@
 * Aprender varias linguagens de programação
 * Aprender informatica:+1:
 * Aprender novos idiomas
+* Ficar rica
 
 ## Talk with me:sparkles:
 
