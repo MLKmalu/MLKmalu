@@ -34,6 +34,8 @@
 
 ## Talk with me:sparkles:
 
-### ![instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)https://www.instagram.com/malu_d3s3nhos/)]
+### Instagram <https://www.instagram.com/malu_d3s3nhos/>
+### Whatsapp 5547991689778
+### Discord Mr.CB Joestar_1257#4190
 
 ![](https://img.estadao.com.br/fotos/crop/1200x1200/resources/jpg/4/2/1616530546824.jpg)
