@@ -37,6 +37,10 @@
 ### Instagram <https://www.instagram.com/malu_d3s3nhos/>
 ### Whatsapp 5547991689778
 ### Discord Mr.CB Joestar_1257#4190
-### ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/malu_d3s3nhos)
+### Email institucional: *maria.kraemer@acad.ufsm.br*
+### ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+### ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+### ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+
 
 ![](https://img.estadao.com.br/fotos/crop/1200x1200/resources/jpg/4/2/1616530546824.jpg)
