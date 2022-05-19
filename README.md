@@ -34,6 +34,6 @@
 
 ## Talk with me:sparkles:
 
-### [![instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)(https://www.instagram.com/malu_d3s3nhos/)]
+### ![instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)https://www.instagram.com/malu_d3s3nhos/)]
 
 ![](https://img.estadao.com.br/fotos/crop/1200x1200/resources/jpg/4/2/1616530546824.jpg)
