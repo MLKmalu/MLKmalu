@@ -11,7 +11,7 @@
 
 - Discord: sonmal0_j
 - Gmail: marialuisa.ctism@gmail.com
-- 
+  
 ## Tecnologias
 
 1. ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -23,9 +23,9 @@
 ## Projetos
 
 - Réplica do Mercado Livre
-  #### Uso e prática da linguagem PHP e revisão do CRUD.
+  ##### Uso e prática da linguagem PHP e revisão do CRUD.
 - Torre meteorológica com transmissão de dados para o computador(em breve para o celular)
-  #### Mais como um hobbie mesmo.
+  ##### Mais como um hobbie mesmo.
   
 ##
 
