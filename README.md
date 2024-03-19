@@ -5,7 +5,19 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MLKmalu&show_icons=true&theme=tokyonight)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=MLKmalu&show_icons=true&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+    locale=pt-br
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=MLKmalu&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    locale=pt-br
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MLKmalu&show_icons=true" />
+</picture>
 
 ## Contato:
 
