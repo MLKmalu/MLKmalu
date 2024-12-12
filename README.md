@@ -22,7 +22,7 @@
 ## Projetos Atuais
 
 - Dispositivo IoT para gerenciamento remoto de configuração em switchs Cisco.
-- Joalheria RM
+- Sinaleira inteligente
 - Aplicativo móvel para Plotter
   
 ##
